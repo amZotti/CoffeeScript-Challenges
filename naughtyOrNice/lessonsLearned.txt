@@ -1,0 +1,8 @@
+I am absolutely amazed at the power of CoffeeScript. At first I wasn’t sure if it was worth learning, both because of the time it would take to learn and also because I was worried that learning CoffeeScript would dilute my current skill base.
+
+My concerns were warranted, but I was dead wrong. CoffeeScript is so effective that is saves time. Even more importantly than the increased productively is the degree of fun which coffee script provides.
+
+CoffeeScript will not dilute my skills, if anything learning this will enhance my skills because as I learn the nuances of CoffeeScript it will bring more attention to elements of Javascript that I never noticed or paid attention to
+before.
+
+At the end of the day, if I am ever really worried about losing skill, there is only one true cure all for that: Action. Action combined with being in a alert and calm mental attitude is the cure all to anything. If I am really worried about losing skill or deviating too much, the real solution is massive action and alertness. Besides, the great thing about computer science as a field is everything is interrelated with everything else. It’s okay to go off and dabble in different things because by learning about the hard, you also learn about the soft.
