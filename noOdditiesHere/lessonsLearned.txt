@@ -1,0 +1,16 @@
+As simple as this appears it is actually decievingly powerful. This simple 2
+line function would require you to stack a filter method onto a map method in
+ordinary Javascript. It is a huge time saver. On top of that, it reads just like
+English, which is highly refreshing.
+
+When using lift comprehensions in CoffeeScript, you need to use the 'when'
+keyword in order filter the list. When acts the same way an if statement would
+accept it is used in list comprehensions.
+
+My favorite thing about CoffeeScript so far is the replacement of gruesome
+comparison operators with their English equivalants:
+
+JS operator  CoffeeScript operator
+   ==               is
+  !=                isnt
+   !                not (unary)
