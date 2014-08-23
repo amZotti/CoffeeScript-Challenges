@@ -1,0 +1,4 @@
+Like in Ruby, to create a range us the dot notation: [0..9], this will create an
+array all inclusive of 0-9. Nine included.
+
+
