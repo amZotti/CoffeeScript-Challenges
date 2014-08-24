@@ -1,0 +1,22 @@
+If I try to key an object using bracket notation:
+object['key']
+It will not work if key is wrapped in a parenthesis (unless the literal key is
+the string 'key'). I was making the mistake of trying to key the object with the
+string 'name' instead of the name variable.
+
+What I still do not understand, which I am going to find out about on
+Stackoverflow, is when I attempted to key the object with dot notation it did
+not work:
+object.key
+Returned undefined
+
+According to The Pragmatic Programmers CofeeScript book, dot notation should be
+used specifically for properties. Bracket notation should be used for dynamic
+variable keying or generation, like in the Pluck.coffee challenge that I just
+solved.
+
+Source:
+http://media.pragprog.com/titles/tbcoffee/collections.pdf
+
+How to compile CoffeeScript in Chrome:
+https://chrome.google.com/webstore/detail/amcoffee/eohnbihebhopoapemdbbodaiaagpogik
