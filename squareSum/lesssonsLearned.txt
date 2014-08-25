@@ -1,0 +1,4 @@
+Lists comprehension can be likened to map. It result will be an array.
+
+Normal iteration 'for i in array' can be likened to forEach. Its results are
+essentially side effects.
