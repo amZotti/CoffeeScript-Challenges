@@ -1,0 +1,6 @@
+Syntax for dictionary iteration is:
+for key, value of hash
+  console.log(#{key} is the key of the value #{value})
+
+Important note:
+The hash iteration syntax uses an 'of' instead of 'in'.
